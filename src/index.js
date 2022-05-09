@@ -1,3 +1,3 @@
-exports.textpro = require("../lib/textmaker/textpro");
-exports.photooxy = require("../lib/textmaker/photooxy");
-exports.ephoto = require("../lib/textmaker/ephoto");
+exports.textpro = require("../lib/textpro");
+exports.photooxy = require("../lib/photooxy");
+exports.ephoto = require("../lib/ephoto");
